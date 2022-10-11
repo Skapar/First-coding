@@ -1,0 +1,21 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main(){
+	int size;
+	cin >> size;	
+	int a[size];
+	
+	for(int i=0; i<size; i++){
+		cin >> a[i];
+		}
+		int tea
+		for(int i = size; i>=0; i--){
+			cout << a[i];
+				}
+			
+			
+	cout << tea_pos;
+}
+	
